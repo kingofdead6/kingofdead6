@@ -1,4 +1,4 @@
-<h4 align="center">👨‍💻 CEO and Founder of SoftWeb-Elevations<br>🎓 Student at ESi<br>🌐 Currently building a Portfolio Website<br>🌱 Learning GSAP animations to level up my web skills<br>💬 Feel free to ask me anything—I’m always happy to help!<br>⚡ Fun fact: You’re brighter than the moon 🌙</h4>
+<h4 align="center">👨‍💻 CEO and Founder of SoftWeb-Elevations<br>🎓 Student at ESi<br>🌐 Currently building an AirBNB clone website<br>🌱 Learning Back-End to level up my web skills<br>💬 Feel free to ask me anything—I’m always happy to help!<br>⚡ Fun fact: You’re brighter than the moon 🌙</h4>
 
 ###
 

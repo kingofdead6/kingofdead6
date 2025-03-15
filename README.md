@@ -12,7 +12,6 @@
 <img align="right" height="150" weight="300" src="https://media.giphy.com/media/fyRjICUy5UZA4/giphy.gif?cid=790b7611kr7k44vvxxdmopnhlnphctic0jzjgrjyzshnoc94&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-<h1>Hi 👋, I'm a full stack developer</h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -36,9 +35,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kingofdead6&show_icons=true&locale=en" alt="kingofdead6" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingofdead6&" alt="kingofdead6" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingofdead6" alt="kingofdead6" /></a></p>
+
 
 ###
 

@@ -1,0 +1,25 @@
+name: Generate contribution city
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/pet.yml
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: prsdx/github-pet@v1
+        with:
+          username: kingofdead6
+          timezone-offset-minutes: "60" # Algeria, UTC+1

@@ -72,9 +72,9 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat-light.svg">
-  <img alt="isometric contribution city" src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/isocat-light.svg">
+  <img alt="isometric contribution city" src="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/isocat.svg" width="100%">
 </picture>
 
 </div>

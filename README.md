@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 SoftWeb-Elevations</h1>
+<h1 align="center">👨‍💻 SoftWeb Elevation</h1>
 
 <h3 align="center">
 CEO & Founder • Full-Stack Developer • AI Engineer
@@ -7,16 +7,8 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 <p align="center">
 🎓 Student at ESI (École Nationale Supérieure d'Informatique)<br/>
 💬 Open to collaboration, questions, and interesting ideas<br/>
-⚡ Fun fact: You’re brighter than the moon 🌙
+⚡ Fun fact: You're brighter than the moon 🌙
 </p>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingofdead6&locale=en&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&cache_seconds=1800" height="160"/>
-
-</div>
 
 ---
 
@@ -26,32 +18,20 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 
 ### 💻 Languages
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript" />
 </p>
 
 ### 🌐 Frontend & Backend
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" width="42"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind" alt="React, Next.js, Vue, Node.js, Express, Tailwind CSS" />
 </p>
 
 ### 🗄️ Databases & DevOps
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,linux" alt="MongoDB, MySQL, PostgreSQL, Git, Linux" />
 </p>
+
+<br clear="right"/>
 
 ### 🤖 AI & ML
 <ul>
@@ -65,8 +45,6 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 
 ---
 
----
-
 ## 🏙️ Isometric Contribution City
 
 <div align="center">
@@ -74,7 +52,7 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/isocat.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/isocat-light.svg">
-  <img alt="isometric contribution city" src="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/isocat.svg" width="100%">
+  <img alt="Isometric contribution city" src="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/isocat.svg" width="100%">
 </picture>
 
 </div>
@@ -83,12 +61,9 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/langs.svg" width="50%" />
+  <img src="https://raw.githubusercontent.com/kingofdead6/kingofdead6/main/dist/langs.svg" alt="Most used languages" width="50%" />
 </div>
-
----
 
 ---
 
@@ -97,15 +72,14 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 <div align="center">
 
 <a href="https://www.instagram.com/softweb_elevation/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
 <a href="mailto:ny_kahlouche@esi.dz">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/kingofdead6/kingofdead6/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/kingofdead6/kingofdead6/output/snake.svg" alt="Snake eating contributions" />

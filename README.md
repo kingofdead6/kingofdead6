@@ -65,14 +65,30 @@ CEO & Founder • Full-Stack Developer • AI Engineer
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 🏙️ Isometric Contribution City
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kingofdead6&show_icons=true&theme=gotham&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingofdead6&layout=compact&theme=gotham&hide_border=true" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat-light.svg">
+  <img alt="isometric contribution city" src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat.svg" width="100%">
+</picture>
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/langs.svg" width="50%" />
+</div>
+
+---
 
 ---
 

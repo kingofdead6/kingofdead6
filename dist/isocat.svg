@@ -432,5 +432,5 @@
 <g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.96;1" calcMode="discrete" dur="4s" repeatCount="indefinite"/><rect x="10" y="10" width="2" height="2" fill="#58a6ff"/><rect x="20" y="10" width="2" height="2" fill="#58a6ff"/></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.96;1" calcMode="discrete" dur="4s" repeatCount="indefinite"/><rect x="10" y="10" width="4" height="2" fill="#0d1117"/><rect x="20" y="10" width="4" height="2" fill="#0d1117"/></g>
 </g></g>
-<text x="16" y="334" font-family="monospace" font-size="12" fill="#8b949e">state: zoomies - zoomies!! 4 pushes in the last 24h · 1276 contributions this year · regenerated every 6h · github-pet by prsdx</text>
+<text x="16" y="334" font-family="monospace" font-size="12" fill="#8b949e">state: zoomies - zoomies!! 3 pushes in the last 24h · 1276 contributions this year · regenerated every 6h · github-pet by prsdx</text>
 </svg>

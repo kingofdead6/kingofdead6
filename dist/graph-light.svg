@@ -419,5 +419,5 @@
 <g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.96;1" calcMode="discrete" dur="4s" repeatCount="indefinite"/><rect x="15" y="43" width="3" height="3" fill="#0969da"/><rect x="30" y="43" width="3" height="3" fill="#0969da"/></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.96;1" calcMode="discrete" dur="4s" repeatCount="indefinite"/><rect x="15" y="43" width="6" height="3" fill="#ffffff"/><rect x="30" y="43" width="6" height="3" fill="#ffffff"/></g>
 </g></g>
-<text x="16" y="200" font-family="monospace" font-size="12" fill="#57606a">state: hungry - hungry - no pushes for 31h · 1280 contributions this year · regenerated every 6h · github-pet by prsdx</text>
+<text x="16" y="200" font-family="monospace" font-size="12" fill="#57606a">state: hungry - hungry - no pushes for 35h · 1280 contributions this year · regenerated every 6h · github-pet by prsdx</text>
 </svg>

@@ -1,7 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="894" height="190" viewBox="0 0 894 190" role="img" aria-label="github pet: grumpy">
 <title>github pet - grumpy</title>
 <rect width="894" height="190" fill="#0d1117"/>
-<rect width="894" height="158" fill="#f77825" opacity="0.1"/>
+<rect width="894" height="158" fill="#02060f" opacity="0.4"/>
+<rect x="33" y="16" width="9" height="3" fill="#e3b341"/>
+<rect x="30" y="19" width="12" height="3" fill="#e3b341"/>
+<rect x="27" y="22" width="9" height="3" fill="#e3b341"/>
+<rect x="27" y="25" width="9" height="3" fill="#e3b341"/>
+<rect x="27" y="28" width="9" height="3" fill="#e3b341"/>
+<rect x="30" y="31" width="12" height="3" fill="#e3b341"/>
+<rect x="33" y="34" width="9" height="3" fill="#e3b341"/>
+<rect x="120" y="72" width="3" height="3" fill="#e6edf3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="260" y="88" width="3" height="3" fill="#e6edf3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></rect>
+<rect x="400" y="70" width="3" height="3" fill="#e6edf3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="1.3s" repeatCount="indefinite"/></rect>
+<rect x="520" y="86" width="3" height="3" fill="#e6edf3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></rect>
+<rect x="700" y="72" width="3" height="3" fill="#e6edf3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="1.7s" repeatCount="indefinite"/></rect>
+<rect x="820" y="90" width="3" height="3" fill="#e6edf3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="1s" repeatCount="indefinite"/></rect>
 <line x1="0" y1="158" x2="894" y2="158" stroke="#30363d" stroke-width="2" stroke-dasharray="8 8"/>
 <rect x="162" y="137" width="3" height="3" fill="#39d353"/>
 <rect x="156" y="140" width="15" height="3" fill="#f0823d"/>

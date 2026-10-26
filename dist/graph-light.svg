@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="894" height="210" viewBox="0 0 894 210" role="img" aria-label="contribution graph cat: sleeping">
-<title>contribution graph cat - sleeping</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="894" height="210" viewBox="0 0 894 210" role="img" aria-label="contribution graph cat: grumpy">
+<title>contribution graph cat - grumpy</title>
 <rect width="894" height="210" fill="#ffffff"/>
 <rect x="50" y="74" width="12" height="12" rx="2" fill="#9be9a8"><title>2025-10-26: 3 contributions</title></rect>
 <rect x="50" y="89" width="12" height="12" rx="2" fill="#9be9a8"><title>2025-10-27: 1 contributions</title></rect>
@@ -367,7 +367,7 @@
 <rect x="815" y="164" width="12" height="12" rx="2" fill="#9be9a8"><title>2026-10-24: 1 contributions</title></rect>
 <rect x="830" y="74" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-10-25: 0 contributions</title></rect>
 <rect x="830" y="89" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-10-26: 0 contributions</title></rect>
-<g><animateTransform attributeName="transform" type="translate" values="50 0;791 0;791 0;50 0;50 0" keyTimes="0;0.45;0.5;0.95;1" dur="30s" repeatCount="indefinite"/>
+<g><animateTransform attributeName="transform" type="translate" values="50 0;791 0;791 0;50 0;50 0" keyTimes="0;0.45;0.5;0.95;1" dur="42s" repeatCount="indefinite"/>
 <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" keyTimes="0;0.5;1" dur="0.9s" repeatCount="indefinite"/>
 <rect x="6" y="31" width="6" height="3" fill="#1f2328"/>
 <rect x="36" y="31" width="6" height="3" fill="#1f2328"/>
@@ -415,5 +415,5 @@
 <g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.96;1" calcMode="discrete" dur="4s" repeatCount="indefinite"/><rect x="15" y="43" width="3" height="3" fill="#0969da"/><rect x="30" y="43" width="3" height="3" fill="#0969da"/></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.96;1" calcMode="discrete" dur="4s" repeatCount="indefinite"/><rect x="15" y="43" width="6" height="3" fill="#ffffff"/><rect x="30" y="43" width="6" height="3" fill="#ffffff"/></g>
 </g></g>
-<text x="16" y="200" font-family="monospace" font-size="12" fill="#57606a">state: sleeping - sleeping - it is 05:55 local time right now · 1285 contributions this year · regenerated every 6h · github-pet by prsdx</text>
+<text x="16" y="200" font-family="monospace" font-size="12" fill="#57606a">state: grumpy - grumpy - bowl empty for 6d · 1285 contributions this year · regenerated every 6h · github-pet by prsdx</text>
 </svg>

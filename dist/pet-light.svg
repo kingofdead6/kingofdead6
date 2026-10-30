@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="894" height="190" viewBox="0 0 894 190" role="img" aria-label="github pet: grumpy">
 <title>github pet - grumpy</title>
 <rect width="894" height="190" fill="#ffffff"/>
-<rect width="894" height="158" fill="#ffd8a8" opacity="0.35"/>
 <line x1="0" y1="158" x2="894" y2="158" stroke="#d0d7de" stroke-width="2" stroke-dasharray="8 8"/>
 <rect x="162" y="137" width="3" height="3" fill="#1a7f37"/>
 <rect x="156" y="140" width="15" height="3" fill="#d97706"/>
@@ -82,12 +81,12 @@
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07;0.14;0.85;0.96;1" dur="7s" repeatCount="1" fill="freeze"/>
 <rect x="60" y="12" width="380" height="46" rx="10" fill="#d0d7de"/>
 <polygon points="110,58 130,58 118,74" fill="#d0d7de"/>
-<text x="76" y="31" font-family="monospace" font-size="13" fill="#1f2328">good morning! welcome to young's corner</text>
+<text x="76" y="31" font-family="monospace" font-size="13" fill="#1f2328">good afternoon! welcome to young's corner</text>
 <text x="76" y="48" font-family="monospace" font-size="12" fill="#57606a">scroll down for projects + contact</text>
 <polygon points="230,66 246,66 238,78" fill="#0969da"><animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="0.8s" repeatCount="indefinite"/></polygon>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.040;0.267;0.307;1" dur="18s" begin="5s" repeatCount="indefinite"/><rect x="696.4" y="14" width="181.6" height="30" rx="9" fill="#d0d7de"/><polygon points="722.4,44 740.4,44 729.4,54" fill="#d0d7de"/><text x="707.4" y="33" font-family="monospace" font-size="12" fill="#1f2328">hacking on Portofolio</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.373;0.600;0.640;1" dur="18s" begin="5s" repeatCount="indefinite"/><rect x="711.6" y="14" width="166.4" height="30" rx="9" fill="#d0d7de"/><polygon points="737.6,44 755.6,44 744.6,54" fill="#d0d7de"/><text x="722.6" y="33" font-family="monospace" font-size="12" fill="#1f2328">featured projects ↓</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.667;0.707;0.933;0.973;1" dur="18s" begin="5s" repeatCount="indefinite"/><rect x="696.4" y="14" width="181.6" height="30" rx="9" fill="#d0d7de"/><polygon points="722.4,44 740.4,44 729.4,54" fill="#d0d7de"/><text x="707.4" y="33" font-family="monospace" font-size="12" fill="#1f2328">live stats + graphs ↓</text></g>
-<text x="16" y="180" font-family="monospace" font-size="12" fill="#57606a">state: grumpy - grumpy - bowl empty for 9d · 1288 contributions this year · regenerated every 6h · github-pet by prsdx</text>
+<text x="16" y="180" font-family="monospace" font-size="12" fill="#57606a">state: grumpy - grumpy - bowl empty for 10d · 1288 contributions this year · regenerated every 6h · github-pet by prsdx</text>
 </svg>
